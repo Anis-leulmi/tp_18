@@ -11,7 +11,6 @@ public class Tp18Application {
         SpringApplication.run(Tp18Application.class, args);
 
         System.out.println("Ceci est un test !");
-        System.out.println("Ceci est un deuxième test !");
     }
 
 }
