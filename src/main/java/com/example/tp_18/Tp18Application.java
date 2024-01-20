@@ -13,6 +13,7 @@ public class Tp18Application {
 
         System.out.println("Ceci est un test !");
         System.out.println("Ceci est un autre test !");
+        System.out.println("Ça fontionne.");
     }
 
 }
